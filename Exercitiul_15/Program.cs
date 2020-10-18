@@ -10,7 +10,7 @@ namespace Exercitiul_15
     {
         static void Main(string[] args)
         {
-            // Calculati media aritmetica a doua numere intregi.
+            // Calculati media aritmetica a doua numere.
 
             Console.WriteLine("Introduceti doua numere");
             double a, b;
