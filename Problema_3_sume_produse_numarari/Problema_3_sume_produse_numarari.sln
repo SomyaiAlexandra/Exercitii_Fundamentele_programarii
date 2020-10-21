@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problema_3_sume_produse_numarari", "Problema_3_sume_produse_numarari.csproj", "{F585F610-EB97-4E06-81D8-AD6D8C8FAA00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F585F610-EB97-4E06-81D8-AD6D8C8FAA00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F585F610-EB97-4E06-81D8-AD6D8C8FAA00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F585F610-EB97-4E06-81D8-AD6D8C8FAA00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F585F610-EB97-4E06-81D8-AD6D8C8FAA00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA67DCE9-3F73-44B0-AA00-21F0280F60D5}
+	EndGlobalSection
+EndGlobal
