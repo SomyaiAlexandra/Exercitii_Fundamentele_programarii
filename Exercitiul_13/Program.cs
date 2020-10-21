@@ -10,6 +10,7 @@ namespace Exercitiul_13
     {
         static void Main(string[] args)
         {
+            // Somyai Alexandra
             // Se dat trei numere naturale a,b,x. Sa se verifice daca numarul x apartine intervalului [a,b].
 
             int a, b, x;

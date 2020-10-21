@@ -10,7 +10,9 @@ namespace Exercitiul_8
     {
         static void Main(string[] args)
         {
-            // (#1260) Se citesc două numere naturale. Afișați suma, diferenţa, produsul şi câtul lor, în această ordine, separate prin câte un spațiu.
+            // Somyai Alexandra
+            // (#1260) Se citesc două numere naturale. 
+            // Afișați suma, diferenţa, produsul şi câtul lor, în această ordine, separate prin câte un spațiu.
             Console.WriteLine("Introduceti doua numere naturale");
 
             int a, b;

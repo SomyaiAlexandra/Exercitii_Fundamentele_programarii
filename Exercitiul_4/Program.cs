@@ -10,7 +10,9 @@ namespace Exercitiul_4
     {
         static void Main(string[] args)
         {
-            // (#168) Să se scrie un program care citeşte de la tastatură două numere întregi a şi b şi verifică dacă cele doua numere au acelaşi semn.
+            // Somyai Alexandra
+            // (#168) Să se scrie un program care citeşte de la tastatură două numere întregi a şi b.
+            // Verifică dacă cele doua numere au acelaşi semn.
 
             Console.WriteLine("Intoduceti doua numere intregi");
 

@@ -10,6 +10,7 @@ namespace Execitiul_1
     {
         static void Main(string[] args)
         {
+        // Somyai Alexandra 
         // (#939)Se dau 2 numere naturale. Calculaţi suma celor 2 numere date.
 
         Console.WriteLine("Introduceti doua numere naturale");
@@ -22,7 +23,7 @@ namespace Execitiul_1
 
         Console.WriteLine(a + b);
 
-            Console.ReadKey();
+        Console.ReadKey();
 
 
     }

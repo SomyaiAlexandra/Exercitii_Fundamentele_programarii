@@ -10,6 +10,7 @@ namespace Exercitiul_9
     {
         static void Main(string[] args)
         {
+            // Somyai Alexandra
             // (#1282) Se dă un număr. Să se afișeze rădăcina sa pătrată.
 
             Console.WriteLine("Introduceti un numar n");

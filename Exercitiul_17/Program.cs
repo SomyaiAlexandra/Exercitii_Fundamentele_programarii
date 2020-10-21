@@ -10,6 +10,7 @@ namespace Exercitiul_17
     {
         static void Main(string[] args)
         {
+            // Somyai Alexandra
             // Sa se scrie un program care determina aria totala a unui cub pentru care se cunoaste lungimea laturii.
 
             Console.WriteLine("Introduceti latura cubului");

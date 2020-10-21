@@ -10,6 +10,7 @@ namespace Exercitiul_19
     {
         static void Main(string[] args)
         {
+            // Somyai Alexandra
             // Se citesc doua numere a si b reprezentand lungimile laturilor unui dreptungi.
             // Sa se calculeze perimetrul, aria si lungimea diagonalei dreptunghiului.
 

@@ -11,6 +11,7 @@ namespace Exercitiul_14
     {
         static void Main(string[] args)
         {
+            // Somyai Alexandra
             // Calculati aria unui triunghi.
             Console.WriteLine("Intoduceti cele 3 laturi ale triunghiului");
 

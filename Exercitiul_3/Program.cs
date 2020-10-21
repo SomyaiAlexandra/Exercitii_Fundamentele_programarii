@@ -10,6 +10,7 @@ namespace Exercitiul_3
     {
         static void Main(string[] args)
         {
+            // Somyai Alexandra
             // (#167) Să se scrie un program care citeşte de la tastatură un număr întreg şi determină semnul său.
 
             Console.WriteLine("Introduceti un numar intreg");

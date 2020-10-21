@@ -10,7 +10,9 @@ namespace Exercitiul_11
     {
         static void Main(string[] args)
         {
-            // Se citeste de la tastatura un numar natural de 3 cifre. Sa se stabileasca daca are toate cifrele egale.
+            // Somyai Alexandra
+            // Se citeste de la tastatura un numar natural de 3 cifre. 
+            // Sa se stabileasca daca are toate cifrele egale.
             Console.WriteLine("Introduceti un numar natural de 3 cifre");
             int n;
             n = int.Parse(Console.ReadLine());

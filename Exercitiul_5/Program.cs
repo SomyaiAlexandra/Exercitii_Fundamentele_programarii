@@ -10,7 +10,9 @@ namespace Exercitiul_5
     {
         static void Main(string[] args)
         {
-            // (#109) Să se scrie un program care citeşte de la tastatură un număr natural şi verifică dacă numărul este par sau impar.
+            //Somyai Alexandra
+            // (#109) Să se scrie un program care citeşte de la tastatură un număr natural.
+            // Verifică dacă numărul este par sau impar.
 
             Console.WriteLine("Introduceti un numar natural");
 

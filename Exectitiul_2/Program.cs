@@ -10,6 +10,7 @@ namespace Exectitiul_2
     {
         static void Main(string[] args)
         {
+            //Somyai Alexandra
             // (#1258) Se dau două numere naturale. Calculați diferenţa lor.
             Console.WriteLine("Introduceti doua numere naturale");
             int a, b;

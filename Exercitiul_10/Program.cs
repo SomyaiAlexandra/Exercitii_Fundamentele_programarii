@@ -10,6 +10,7 @@ namespace Exercitiul_10
     {
         static void Main(string[] args)
         {
+            // Somyai Alexandra
             //(#3480) Se dă un număr natural n. Calculați ultima cifră a lui 9^n.
 
             Console.WriteLine("Introduceti un numar n");

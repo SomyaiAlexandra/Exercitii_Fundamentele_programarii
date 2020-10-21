@@ -10,8 +10,9 @@ namespace Exercitiu_12
     {
         static void Main(string[] args)
         {
+            // Somyai Alexandra
             // Sa se scrie un program care determina maximul a doua numere intregi citite de la tastatura.
-            
+
             Console.WriteLine("Introduceti doua numere intregi");
             int a, b;
             a = int.Parse(Console.ReadLine());

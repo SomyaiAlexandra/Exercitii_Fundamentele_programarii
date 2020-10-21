@@ -10,6 +10,7 @@ namespace Exercitiul_15
     {
         static void Main(string[] args)
         {
+            // Somyai Alexandra
             // Calculati media aritmetica a doua numere.
 
             Console.WriteLine("Introduceti doua numere");

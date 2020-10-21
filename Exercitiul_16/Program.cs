@@ -10,6 +10,7 @@ namespace Exercitiul_16
     {
         static void Main(string[] args)
         {
+            // Somyai Alexandra
             // Calculati media geometrica a doua numere.
 
             Console.WriteLine("Introduceti doua numere");

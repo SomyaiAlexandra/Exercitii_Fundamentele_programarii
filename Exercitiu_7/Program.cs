@@ -11,6 +11,7 @@ namespace Exercitiu_7
     {
         static void Main(string[] args)
         {
+            // Somyai Alexandra
             // (#832)Fiind dată nota unui elev să se afișeze dacă acesta este corigent sau promovat.
 
             Console.WriteLine("Introduceti nota elevului");

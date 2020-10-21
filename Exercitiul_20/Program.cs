@@ -10,6 +10,7 @@ namespace Exercitiul_20
     {
         static void Main(string[] args)
         {
+            // Somyai Alexandra
             // Interschimbati valorile a doua numere.
             int x, y, aux;
 
