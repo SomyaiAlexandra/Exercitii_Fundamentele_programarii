@@ -17,12 +17,17 @@ namespace Problema_3_sume_produse_numarari
             Console.WriteLine("Introduceti un numar natural n");
 
             int n = int.Parse(Console.ReadLine());
+            int S = 0;
 
             Console.WriteLine("Suma numerelor este...");
 
-            S = 
+            for (int i = 1; i <= n; i++)
 
-            Console.WriteLine("S");
+                S += i * (i + 1);
+
+            Console.WriteLine(S);
+            Console.ReadKey();
+
 
 
         }
